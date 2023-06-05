@@ -1,6 +1,6 @@
-#
-#
-#
+#Andrew Webster
+#CIS 261
+#Project Phase 4
 from datetime import datetime
 class UserInfo:   
     def __init__(self):
